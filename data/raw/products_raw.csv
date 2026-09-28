@@ -1,0 +1,32 @@
+product_id,product_name,category,unit_price,unit_cost,reorder_level
+101,Tomato 1kg,Fruits & Vegetables,30,24.38,141
+102,Onion 1kg,Fruits & Vegetables,35,29.39,140
+103,Potato 1kg,fruits & vegetables,28,20.74,143
+104,Banana 1 dozen,Fruits & Vegetables,55,47.15,144
+105,Apple 1kg,Fruits & Vegetables,160,112.15,144
+106,Carrot 500g,Fruits & Vegetables,32,26.99,140
+107,Milk 1L,Dairy,56,43.92,148
+108,Curd 500g,Dairy,40,30.0,151
+109,Butter 100g,Dairy,58,43.26,150
+110,Paneer 200g,dairy,90,71.17,148
+111,Cheese Slice,Dairy,120,95.96,151
+112,Bread Loaf, Bakery ,40,33.71,102
+113,Bun Pack,Bakery,30,24.36,102
+114,Cake Slice,Bakery,45,33.24,98
+115,Biscuit Pack,Bakery,25,18.22,104
+116,Tea Powder 250g,Beverages,120,84.95,79
+117,Coffee 200g,Beverages,210,148.35,83
+118,Soft Drink 1L,Beverages,65,50.95,82
+119,Fruit Juice 1L,Beverages,110,95.16,79
+120,Potato Chips,Snacks,20,15.85,103
+121,Namkeen 200g,Snacks,50,39.47,105
+122,Chocolate Bar, Snacks ,40,28.08,105
+123,Cookies,Snacks,35,25.71,102
+124,Rice 5kg,Staples,320,235.55,71
+125,Wheat Flour 5kg,Staples,240,183.96,72
+126,Toor Dal 1kg,staples,150,127.41,70
+127,Sunflower Oil 1L,Staples,140,101.89,75
+128,Sugar 1kg,Staples,46,39.49,72
+129,Detergent 1kg,household,130,102.93,39
+130,Dish Wash Liquid, Household ,95,77.44,42
+131,Toilet Cleaner, Household ,85,70.85,41
